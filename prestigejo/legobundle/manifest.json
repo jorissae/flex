@@ -7,5 +7,6 @@
   },
   "copy-from-recipe": {
     "config/": "%CONFIG_DIR%/"
-  }
+  },
+  "aliases": ["lego2", "idk-lego2"]
 }
