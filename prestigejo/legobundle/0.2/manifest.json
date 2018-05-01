@@ -1,12 +1,12 @@
 {
-  "bundles": {
-    "Idk\\LegoBundle\\IdkLegoBundle": ["all"]
-  },
-  "container": {
-    "testlego": "lego"
-  },
-  "copy-from-recipe": {
-    "config/": "%CONFIG_DIR%/"
-  },
-  "aliases": ["lego2", "idk-lego2"]
+    "bundles": {
+        "Idk\\LegoBundle\\IdkLegoBundle": ["all"]
+    },
+    "container": {
+        "testlego": "lego"
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    },
+    "aliases": ["lego"]
 }
