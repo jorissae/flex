@@ -1,5 +1,5 @@
 <bg=yellow;fg=black>                                                                                             </>
-<bg=yellow;fg=black> Welcom to the Lego bundle a very easy admin generator. </>
+<bg=yellow;fg=black> Welcom to the Lego bundle a very easy admin generator.                                      </>
 <bg=yellow;fg=black>                                                                                             </>
 
   * <fg=blue>Instead</>:
