@@ -1,0 +1,8 @@
+<bg=yellow;fg=black>                                                                                             </>
+<bg=yellow;fg=black> Welcom to the Lego bundle a very easy admin generator. </>
+<bg=yellow;fg=black>                                                                                             </>
+
+  * <fg=blue>Instead</>:
+    1. Use annotations @Idk\LegoBundle\Annotation\Entity\Entity()</>
+    2. Configure users then lego:create:user or fos:create:user</>
+    3. Go on /lego</>
