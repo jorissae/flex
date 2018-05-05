@@ -2,9 +2,6 @@
     "bundles": {
         "Idk\\LegoBundle\\IdkLegoBundle": ["all"]
     },
-    "container": {
-        "testlego": "lego"
-    },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
     },
