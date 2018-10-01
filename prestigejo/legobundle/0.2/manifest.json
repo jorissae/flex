@@ -1,9 +1,9 @@
 {
     "bundles": {
-        "Idk\\LegoBundle\\IdkLegoBundle": ["all"]
+        "Idk\\LegoMediaBundle\\IdkLegoMediaBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
     },
-    "aliases": ["lego"]
+    "aliases": ["lego-media"]
 }
